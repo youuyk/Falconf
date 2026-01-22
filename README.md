@@ -1,6 +1,6 @@
 ## 📑 Overview 
 
-**Learning to Identify Misconfiguration via Log-based Deep Learning Model**
+**Falconf: Misconfiguration Identification via Log Sequence Learning**
 
 This work is log-based deep learning framework for accurate misconfiguration identification. It employs automated fault injection to associate log template sequences with corresponding misconfigured parameters, and trains a two-stage Transformer model to learn the characteristics of log flows.
 
